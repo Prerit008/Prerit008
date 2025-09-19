@@ -17,11 +17,11 @@
   <a href="https://linkedin.com/in/prerit008" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/prerit008" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://codeforces.com/profile/prerit08" target="_blank">
+    <img align="center" src="https://codeforces.org/s/55694/apple-icon-144x144.png" alt="CodeForces" height="30" />
   </a>
   <a href="https://codechef.com/users/prerit008" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="CodeChef" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="CodeChef" height="30" />
   </a>
 </p>
 
